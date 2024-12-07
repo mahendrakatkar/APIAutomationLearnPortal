@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-03T04:18:31Z" name="Default suite" finished-at="2024-12-03T04:18:34Z" duration-ms="2540">
+    <groups>
+    </groups>
+    <test started-at="2024-12-03T04:18:31Z" name="Default test" finished-at="2024-12-03T04:18:34Z" duration-ms="2540">
+      <class name="Task6">
+        <test-method signature="langugaeEng()[pri:0, instance:Task6@7fb95505]" started-at="2024-12-03T09:48:31Z" name="langugaeEng" finished-at="2024-12-03T09:48:34Z" duration-ms="2529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- langugaeEng -->
+      </class> <!-- Task6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
